@@ -1,12 +1,10 @@
 /*----------- content ---------------
-
 1. DEFAULT
 2. PRELOADER
 3. HEADER
 4. HOME
 5. ADVANTAGES
 6. BUY
-
 */
 
 
@@ -219,7 +217,7 @@ span {
 }
 
 .home-info h1 span::before {
-    content: '[MADDOG PROJECT]';
+    content: '[CANDY PROJECT]';
     position: absolute;
     font-size: 10px;
     letter-spacing: 6px;
