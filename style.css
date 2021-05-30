@@ -541,6 +541,7 @@ span {
 
 #footer {
     position: relative;
+    top:60px;
     background-color: #0c0c0c;
     padding: 25px;
     z-index: 1030;
